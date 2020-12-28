@@ -5,6 +5,16 @@ https://wzxwade666.medium.com/apply-crisp-dm-to-a-real-business-case-e1fe7912498
 ### Context
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
 
+In this project, __CRISP-DM (Cross-Industry Standard Process for Data Mining)__ will be applied to better frame the problem and get the insight from data analysis.
+
+- __CRISP-DM__:
+    * Business Understanding
+    * Data Understanding
+    * Data Preparation
+    * Modeling
+    * Evaluation
+    * Deployment
+    
 ### Data
 The following Airbnb activity is included in this Seattle dataset: 
   * Listings, including full descriptions and average review score  
