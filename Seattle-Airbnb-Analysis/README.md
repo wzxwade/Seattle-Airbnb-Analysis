@@ -23,8 +23,8 @@ This project requires [**Python 3.x**](https://www.python.org/downloads/release/
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
-- [scikit-learn](https://www.nltk.org/install.html)
-- [nltk](http://scikit-learn.org/stable/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [nltk](https://www.nltk.org/install.html)
 - [plotly](https://plot.ly/python/getting-started/)
 - [datapane](https://https://datapane.com/)
 
