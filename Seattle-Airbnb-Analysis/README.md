@@ -1,4 +1,6 @@
 # Seattle-Airbnb-Listings-Analysis
+Please view my article on Medium.
+https://wzxwade666.medium.com/apply-crisp-dm-to-a-real-business-case-e1fe79124981
 
 ### Context
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
